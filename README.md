@@ -1,4 +1,4 @@
-# Typescript-alura
+# TypeScript-Alura
 
 Este é um repositório para compartilhar os arquivos que utilizei na formação citada abaixo
 
